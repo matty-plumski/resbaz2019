@@ -12,7 +12,7 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='https://research.unimelb.edu.au/infrastructure/research-platform-services/training/research-bazaar/melbourne-resbaz-2019'>Melbourne</a>"
             }
-        },
+    },
 	    {
             "type": "Feature",
             "geometry": {
@@ -23,7 +23,7 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./oslo'>Oslo</a>"
             }
-        },
+    },
 	    {
             "type": "Feature",
             "geometry": {
@@ -34,7 +34,7 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='http://researchbazaar.arizona.edu/resbaz/resbazTucson2019'>Tucson</a>"
             }
-	 }, 
+	}, 
 	    {
             "type": "Feature",
             "geometry": {
@@ -45,7 +45,7 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./dunedin'>Dunedin</a>"
             }
-	    },
+	},
 	    {
             "type": "Feature",
             "geometry": {
@@ -56,11 +56,8 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./sydney'>Sydney</a>"
             }
-
-        },
+    },
         {
-	 },
-	    {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -70,7 +67,7 @@
                 "marker-color": "#2b3990",
                 "details": "<a href='./perth'>Perth</a>"
             }
-        },
+    },
         {
             "type": "Feature",
             "geometry": {
